@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+// Essa é a classe principal desse App.
 public class MainActivity extends AppCompatActivity {
 
     @Override
