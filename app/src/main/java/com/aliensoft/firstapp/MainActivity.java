@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.TextView;
 
 // Essa é a classe principal desse App.
+// teste a partir do Android Studio.
 public class MainActivity extends AppCompatActivity {
 
     @Override
